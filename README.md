@@ -10,7 +10,7 @@ How to use:
 npm install docsify docsify-cli -g
 ```
 
-4. to see the doc page in browser run command:
+4. to see the doc page in browser cd into repo folder and run command:
 
 ```bash
 docksify serve
